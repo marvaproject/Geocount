@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/geocount_navigation"
+    app:startDestination="@layout/fragment_bangun_datar">
+
+    <fragment
+        android:id="@+id/navigation_datar"
+        android:name="com.example.myapplication.fragment.BangunDatarFragment"
+        tools:layout="@layout/fragment_bangun_datar"/>
+
+    <fragment
+        android:id="@+id/navigation_ruang"
+        android:name="com.example.myapplication.fragment.BangunRuangFragment"
+        tools:layout="@layout/fragment_bangun_ruang"/>
+</navigation>
