@@ -11,7 +11,7 @@ class Geocount {
     )
 
     private val imgBentuk = intArrayOf(
-        R.drawable.segitiga,
+        R.drawable.segitiga_samasisi,
 
     )
 }

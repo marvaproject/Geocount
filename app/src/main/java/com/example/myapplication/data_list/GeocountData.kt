@@ -18,11 +18,11 @@ object GeocountData {
     )
 
     private val imgBangunDatar = intArrayOf(
-        R.drawable.segitiga,
+        R.drawable.segitiga_samasisi,
         R.drawable.lingkaran,
         R.drawable.persegi,
         R.drawable.persegipanjang,
-        R.drawable.trapesium,
+        R.drawable.trapesium_samakaki,
         R.drawable.jajargenjang,
         R.drawable.belahketupat,
         R.drawable.layanglayang,
